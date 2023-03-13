@@ -1,0 +1,30 @@
+
+.main{
+    background: linear-gradient(90deg, rgb(78, 3, 47) 10%, pink 90%);
+    width: 100vw;
+    height: 100vh;
+}
+.branco{
+    width: 30em;
+    height: 30em;
+    margin-left: 350px;
+    margin-right: 100px;
+    margin-top: 200px;
+    background-color: white;
+
+}
+button{
+    background-color: rgb(216, 124, 216);
+    border: none;
+    
+}
+.formulario{
+    display:flex;
+    flex-direction: column;
+    row-gap: 20px;
+
+}
+.checkbox{
+    display:flex;
+    gap: 5px;
+}
